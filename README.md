@@ -1,13 +1,25 @@
 # Ru-Community-DNS
-Инструмент для быстрой смены DNS-серверов в Windows.
+Инструмент для быстрой смены DNS-серверов в Windows. Включает популярные комьюнити-решения. 
+Может быть полезна всем, кто часто меняет сетевые настройки.
 
-<img width="452" height="732" alt="1" src="https://github.com/user-attachments/assets/3d26984b-3832-470b-ba9d-54a7a6be1ac1" />
-<img width="452" height="732" alt="2" src="https://github.com/user-attachments/assets/c16ba268-a8a2-4072-9610-f8d4ff40e923" />
+## Скриншоты интерфейса
 
-Данные о DNS серверах:
-https://dns.geohide.ru:8443/
-https://freedom.mafioznik.xyz/
-https://astracat.ru/
-https://info.dns.malw.link/
-https://www.comss.ru/
-https://xbox-dns.ru/
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3d26984b-3832-470b-ba9d-54a7a6be1ac1" width="350" alt="Интерфейс управления" />
+  <img src="https://github.com/user-attachments/assets/c16ba268-a8a2-4072-9610-f8d4ff40e923" width="350" alt="Описание серверов" />
+</p>
+
+---
+
+## Используемые DNS-сервисы
+
+В приложении доступны конфигурации следующих проектов:
+
+* [**GeoHide DNS**](https://dns.geohide.ru:8443/)
+* [**MAFIA DNS**](https://freedom.mafioznik.xyz/)
+* [**ASTRACAT DNS**](https://astracat.ru/)
+* [**malw DNS**](https://info.dns.malw.link/)
+* [**COMSS DNS**](https://www.comss.ru/)
+* [**Xbox DNS**](https://xbox-dns.ru/)
+* [**Cloudflare DNS**](https://1.1.1.1)
+---
